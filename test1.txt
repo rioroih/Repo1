@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is E66B-AEEA
+
+ Directory of C:\Users\User\Desktop\Jay
+
+10/04/2024  12:00 PM    <DIR>          .
+10/04/2024  12:00 PM    <DIR>          ..
+10/04/2024  12:00 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  164,922,740,736 bytes free
